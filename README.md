@@ -1,20 +1,22 @@
-![](https://komarev.com/ghpvc/?username=naanmohammed)
-<h3> Hi, I am Naan.👋 <h3>
+![](https://komarev.com/ghpvc/?username=naniber)
 
-<img src="https://github.com/naanmohammed/naanmohammed/blob/main/Naan%20Mohammed.gif" height="300" width="2000"></img>
+<h3> Hi, I am Nazrawit.👋 <h3>
+
 ####
-I'm a Software Engineer turned tech business owner with expertise in C#, Ruby on Rails, JavaScript, ASP.NET, and React. With over four years of experience in the industry, I have worked on various projects ranging from web applications to desktop software.<br>
+
+I'm a detail-oriented Software Engineer skilled in the MERN stack (MongoDB, Express, React, Node.js), thriving in fast-paced environments and committed to meeting challenging deadlines while contributing as an adaptable and enthusiastic team player..<br>
+
  <hr>
  
  <h2>🔭 Current Work <br></h2>
-I am currently leading a highly expanding tech company which reached over USD 125,000 in revenue in 4 months of operations.
+I am currently working remotely providing solutions to real life problems.
  
 <h2>💬 Ask me about <br></h2>
 If you have any questions tech related businesses in Ethiopia, feel free to ask me. I'm always happy to help and share my knowledge.
 <br>
  
 <h2>📫 How to reach me <br></h2>
-You can reach out to me via email at naanahmed24@gmail.com or on telegram at @nbjrr.
+You can reach out to me via email at gdgr2010@gmail.com or on my linkedIn at https://www.linkedin.com/in/nazrawit-wolde-839354216/.
 <br>
  
 <h2>⚡ Fun fact <br></h2>
@@ -25,8 +27,8 @@ Thanks for stopping by, and I look forward to connecting with you!
  
  <hr>
  <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C#-E34A86?style=flat-square&logo=csharp"/>
+<img src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -37,28 +39,8 @@ Thanks for stopping by, and I look forward to connecting with you!
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+
 </p>
-
-![Naan's GitHub stats](https://github-readme-stats.vercel.app/api?username=naanmohammed&show_icons=true&theme=radical&count_private=true) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naanmohammed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naanmohammed&theme=dark)](https://git.io/streak-stats)
-
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 11 September 2022 - To: 06 September 2024
-
-Total Time: 1,127 hrs 36 mins
-
-JavaScript                 640 hrs 10 mins >>>>>>>>>>>>>>-----------   56.77 %
-CSS                        139 hrs 16 mins >>>----------------------   12.35 %
-Ruby                       82 hrs 30 mins  >>-----------------------   07.32 %
-HTML                       57 hrs 11 mins  >------------------------   05.07 %
-Python                     41 hrs 43 mins  >------------------------   03.70 %
-```
-
-<!--END_SECTION:waka-->
